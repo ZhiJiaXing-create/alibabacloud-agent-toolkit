@@ -306,7 +306,7 @@ All prerequisites are now satisfied. Install the toolkit itself.
 ### Install (Confirm — ask user before executing)
 
 ```bash
-npx openplugin acloudlabs-unofficial/alibabacloud-agent-toolkit
+npx openplugin aliyun/alibabacloud-agent-toolkit
 ```
 
 > This will download and install the Alibaba Cloud Agent Toolkit plugins into the
